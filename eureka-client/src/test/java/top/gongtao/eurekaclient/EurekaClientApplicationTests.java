@@ -1,4 +1,4 @@
-package hello;
+package top.gongtao.eurekaclient;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

@@ -11,6 +11,11 @@
     <modules>
         <module>eureka-server</module>
         <module>eureka-client</module>
+        <module>hello-service</module>
+        <module>hello-service-api</module>
+        <module>admin-server</module>
+        <module>config-server</module>
+        <module>config-client</module>
     </modules>
 
 </project>
