@@ -1,7 +1,7 @@
 package top.gongtao.web;
 
-import com.didispace.dto.User;
-import com.didispace.service.HelloService;
+import top.gongtao.dto.User;
+import top.gongtao.service.HelloService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
